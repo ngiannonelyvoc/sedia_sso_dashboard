@@ -18,7 +18,5 @@ header.dashboard-header nav #header {
   visibility: visible;
 }
 
-.page-description {
-  visibility: hidden; /* Cache le texte original */
-}
+
 
